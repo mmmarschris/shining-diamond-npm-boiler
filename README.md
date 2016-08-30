@@ -102,7 +102,8 @@ where `[task]` is replaced by one of the options below. For example:
 
 ## Credits
 
-Based on the work of:
+Based on the work of, & inspired by:
 
 * ["How to use NPM as a Build Tool"](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool)
 * ["npm-build-boilerplate"](https://github.com/damonbauer/npm-build-boilerplate)
+* ["Why I Left Gulp and Grunt for npm Scripts"](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.opjyuobgn)
